@@ -1,0 +1,432 @@
+[
+  {
+    "name": "running",
+    "MET": 9.8,
+    "calories per min": 11.064516129032258
+  },
+  {
+    "name": "swimming",
+    "MET": 6,
+    "calories per min": 6.774193548387097
+  },
+  {
+    "name": "road cycling",
+    "MET": 10,
+    "calories per min": 5.835
+  },
+  {
+    "name": "weight lifting",
+    "MET": 3.5,
+    "calories per min": 3.9516129032258065
+  },
+  {
+    "name": "yoga",
+    "MET": 3.3,
+    "calories per min": 3.725806451612903
+  },
+  {
+    "name": "pilates",
+    "MET": 3,
+    "calories per min": 3.3870967741935485
+  },
+  {
+    "name": "high intensity interval training",
+    "MET": 8,
+    "calories per min": 8.75
+  },
+  {
+    "name": "crossfit",
+    "MET": 7.3,
+    "calories per min": 8.37704918032787
+  },
+  {
+    "name": "boxing",
+    "MET": 7.8,
+    "calories per min": 8.53125
+  },
+  {
+    "name": "kickboxing",
+    "MET": 5.3,
+    "calories per min": 5.796875
+  },
+  {
+    "name": "martial arts",
+    "MET": 5.3,
+    "calories per min": 5.983870967741935
+  },
+  {
+    "name": "dancing",
+    "MET": 7.8,
+    "calories per min": 8.53125
+  },
+  {
+    "name": "zumba class",
+    "MET": 5,
+    "calories per min": 5.706521739130435
+  },
+  {
+    "name": "aerobics",
+    "MET": 7.3,
+    "calories per min": 8.241935483870968
+  },
+  {
+    "name": "walking",
+    "MET": 3.5,
+    "calories per min": 0.0
+  },
+  {
+    "name": "jogging",
+    "MET": 9,
+    "calories per min": 10.161290322580646
+  },
+  {
+    "name": "hiking",
+    "MET": 7.8,
+    "calories per min": 8.806451612903226
+  },
+  {
+    "name": "rock climbing",
+    "MET": 7.5,
+    "calories per min": 8.46774193548387
+  },
+  {
+    "name": "kayaking",
+    "MET": 5,
+    "calories per min": 5.645161290322581
+  },
+  {
+    "name": "canoeing",
+    "MET": 3.5,
+    "calories per min": 4.016393442622951
+  },
+  {
+    "name": "rowing",
+    "MET": 4.8,
+    "calories per min": 5.419354838709677
+  },
+  {
+    "name": "sailing",
+    "MET": 3.3,
+    "calories per min": 3.7868852459016393
+  },
+  {
+    "name": "surfing",
+    "MET": 3,
+    "calories per min": 3.442622950819672
+  },
+  {
+    "name": "skiing",
+    "MET": 7,
+    "calories per min": 7.903225806451613
+  },
+  {
+    "name": "snowboarding",
+    "MET": 4.3,
+    "calories per min": 4.934426229508197
+  },
+  {
+    "name": "ice skating",
+    "MET": 5.5,
+    "calories per min": 6.209677419354839
+  },
+  {
+    "name": "rollerblading",
+    "MET": 7.5,
+    "calories per min": 8.46774193548387
+  },
+  {
+    "name": "skateboarding",
+    "MET": 5,
+    "calories per min": 5.46875
+  },
+  {
+    "name": "parkour",
+    "MET": 8.3,
+    "calories per min": 9.370967741935484
+  },
+  {
+    "name": "calisthenics",
+    "MET": 3.8,
+    "calories per min": 4.03
+  },
+  {
+    "name": "gymnastics",
+    "MET": 3.8,
+    "calories per min": 4.290322580645161
+  },
+  {
+    "name": "tennis",
+    "MET": 7.3,
+    "calories per min": 8.241935483870968
+  },
+  {
+    "name": "badminton",
+    "MET": 5.5,
+    "calories per min": 6.015625
+  },
+  {
+    "name": "ping pong",
+    "MET": 4,
+    "calories per min": 4.375
+  },
+  {
+    "name": "basketball",
+    "MET": 6.5,
+    "calories per min": 7.338709677419355
+  },
+  {
+    "name": "volleyball",
+    "MET": 4,
+    "calories per min": 4.516129032258065
+  },
+  {
+    "name": "soccer",
+    "MET": 10,
+    "calories per min": 11.290322580645162
+  },
+  {
+    "name": "american football",
+    "MET": 8,
+    "calories per min": 9.03225806451613
+  },
+  {
+    "name": "baseball",
+    "MET": 5,
+    "calories per min": 5.645161290322581
+  },
+  {
+    "name": "softball",
+    "MET": 4,
+    "calories per min": 4.516129032258065
+  },
+  {
+    "name": "golf",
+    "MET": 3.5,
+    "calories per min": 3.9516129032258065
+  },
+  {
+    "name": "archery",
+    "MET": 4.3,
+    "calories per min": 4.854838709677419
+  },
+  {
+    "name": "fencing",
+    "MET": 6,
+    "calories per min": 6.774193548387097
+  },
+  {
+    "name": "skeet shooting",
+    "MET": 2.5,
+    "calories per min": 2.8225806451612905
+  },
+  {
+    "name": "horseback riding",
+    "MET": 5.5,
+    "calories per min": 6.209677419354839
+  },
+  {
+    "name": "fishing",
+    "MET": 3.5,
+    "calories per min": 3.9516129032258065
+  },
+  {
+    "name": "hunting",
+    "MET": 5,
+    "calories per min": 5.645161290322581
+  },
+  {
+    "name": "trampoline",
+    "MET": 3.5,
+    "calories per min": 3.828125
+  },
+  {
+    "name": "skydiving",
+    "MET": 3.5,
+    "calories per min": 3.889047619047619
+  },
+  {
+    "name": "paragliding",
+    "MET": 3.5,
+    "calories per min": 3.9516129032258065
+  },
+  {
+    "name": "hang gliding",
+    "MET": 3.5,
+    "calories per min": 3.9516129032258065
+  },
+  {
+    "name": "scuba diving",
+    "MET": 7,
+    "calories per min": 8.032786885245901
+  },
+  {
+    "name": "snorkeling",
+    "MET": 5,
+    "calories per min": 5.737704918032787
+  },
+  {
+    "name": "diving",
+    "MET": 3,
+    "calories per min": 3.3870967741935485
+  },
+  {
+    "name": "pectoral fly",
+    "MET": 3.5,
+    "calories per min": 3.4033333333333338
+  },
+  {
+    "name": "body building",
+    "MET": 6,
+    "calories per min": 6.774193548387097
+  },
+  {
+    "name": "General Workout",
+    "MET": 4,
+    "calories per min": 4.516129032258065
+  },
+  {
+    "name": "TRX",
+    "MET": 5,
+    "calories per min": 5.645161290322581
+  },
+  {
+    "name": "kettlebells",
+    "MET": 3.5,
+    "calories per min": 3.9516129032258065
+  },
+  {
+    "name": "battle ropes",
+    "MET": 6,
+    "calories per min": 6.774193548387097
+  },
+  {
+    "name": "playing catch",
+    "MET": 2.5,
+    "calories per min": 2.8225806451612905
+  },
+  {
+    "name": "resistance bands",
+    "MET": 4,
+    "calories per min": 4.375
+  },
+  {
+    "name": "sled training",
+    "MET": 7.5,
+    "calories per min": 8.46774193548387
+  },
+  {
+    "name": "squats",
+    "MET": 5,
+    "calories per min": 5.302727272727273
+  },
+  {
+    "name": "overhead press",
+    "MET": 3.5,
+    "calories per min": 3.828125
+  },
+  {
+    "name": "pull-up",
+    "MET": 3.8,
+    "calories per min": 4.290322580645161
+  },
+  {
+    "name": "dips",
+    "MET": 3.8,
+    "calories per min": 3.6950000000000003
+  },
+  {
+    "name": "leg workout",
+    "MET": 3.5,
+    "calories per min": 3.9516129032258065
+  },
+  {
+    "name": "calf raises",
+    "MET": 3.5,
+    "calories per min": 3.9516129032258065
+  },
+  {
+    "name": "sit-ups",
+    "MET": 2.8,
+    "calories per min": 2.97
+  },
+  {
+    "name": "core exercise",
+    "MET": 2.8,
+    "calories per min": 2.97
+  },
+  {
+    "name": "glute exercise",
+    "MET": 3.5,
+    "calories per min": 3.9516129032258065
+  },
+  {
+    "name": "burpee",
+    "MET": 3.8,
+    "calories per min": 3.6950000000000003
+  },
+  {
+    "name": "jumping jacks",
+    "MET": 8,
+    "calories per min": 8.75
+  },
+  {
+    "name": "bear crawls",
+    "MET": 3.8,
+    "calories per min": 4.03
+  },
+  {
+    "name": "jumping rope",
+    "MET": 8.8,
+    "calories per min": 9.625
+  },
+  {
+    "name": "stair climbing",
+    "MET": 8,
+    "calories per min": 7.778333333333333
+  },
+  {
+    "name": "elliptical machine",
+    "MET": 5,
+    "calories per min": 5.645161290322581
+  },
+  {
+    "name": "general gym",
+    "MET": 5,
+    "calories per min": 5.645161290322581
+  },
+  {
+    "name": "stationary biking",
+    "MET": 7,
+    "calories per min": 8.032786885245901
+  },
+  {
+    "name": "walking on treadmill",
+    "MET": 3.5,
+    "calories per min": 3.9516129032258065
+  },
+  {
+    "name": "sprinting",
+    "MET": 11.8,
+    "calories per min": 11.471666666666666
+  },
+  {
+    "name": "circuit training",
+    "MET": 8,
+    "calories per min": 8.75
+  },
+  {
+    "name": "tabata workout",
+    "MET": 8,
+    "calories per min": 9.03225806451613
+  },
+  {
+    "name": "Pylometrics",
+    "MET": 8,
+    "calories per min": 9.03225806451613
+  },
+  {
+    "name": "hillside walking",
+    "MET": 5.3,
+    "calories per min": 5.983870967741935
+  }
+]
