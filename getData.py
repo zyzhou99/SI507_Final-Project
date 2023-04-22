@@ -13,20 +13,21 @@ def get_recipe_data(ingredient):
     }
     response = requests.get(url, params=params)
 
-    with open('recipes_cache.json', 'r') as f:
+    with open('json/cache.json', 'r') as f:
         data = json.load(f)
 
     new_data = {item["recipe"]["label"]: {
+                "name": item["recipe"]["label"],
                 "image": item["recipe"]["image"],
                 "calories": round(item["recipe"]["calories"]),
                 "cuisineType": item["recipe"]["cuisineType"],
                 "mealType": item["recipe"]["mealType"],
                 "ingredientLines": item["recipe"]["ingredientLines"]
             } for item in response.json()["hits"]}
-    
+
     data.update(new_data)
 
-    with open("recipes_cache.json", "w") as f:
+    with open("json/cache.json", "w") as f:
         json.dump(data, f, indent=2)
 
 def get_exercise_data(activity):
@@ -40,15 +41,17 @@ def get_exercise_data(activity):
 
     response = requests.post(url, headers=headers, json=input)
 
-    with open('exercise_cache.json', 'r') as f:
+    with open('json/exercise_cache.json', 'r') as f:
         data = json.load(f)
 
     new_data = { item['name']:{
+                "name":item['name'],
                 "MET": item['met'],
                 "calories per min": round(item['nf_calories'] / (item['duration_min']+1), 2),
             } for item in response.json()["exercises"]}
     data.update(new_data)
 
-    with open("exercise_cache.json", "w") as f:
+    with open("json/exercise_cache.json", "w") as f:
         json.dump(data, f, indent=2)
 
+    return new_data

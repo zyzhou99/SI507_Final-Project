@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Dish</title>
+  </head>
+  <body>
+    <h1>Recommended Dish</h1>
+    {% if data %}
+  <ul>
+    {% for item in data %}
+      <li>
+        <h3>{{ item['name'] }}</h3>
+        <img src="{{ item['image'] }}" alt="{{ item['name'] }}">
+        <p><strong>Calories:</strong> {{ item['calories'] }}</p>
+        <p><strong>Cuisine Type:</strong> {{ item['cuisineType']|join(', ') }}</p>
+        <p><strong>Ingredients:</strong></p>
+        <ul>
+          {% for ingredient in item['ingredientLines'] %}
+            <li>{{ ingredient }}</li>
+          {% endfor %}
+        </ul>
+      </li>
+    {% endfor %}
+  </ul>
+  {% else %}
+    <p>There is no recommendation</p>
+  {% endif %}
+  </body>
+</html>

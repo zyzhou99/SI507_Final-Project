@@ -1,0 +1,432 @@
+{
+  "running": {
+    "name": "running",
+    "MET": 9.8,
+    "calories per min": 11.06
+  },
+  "swimming": {
+    "name": "swimming",
+    "MET": 6,
+    "calories per min": 6.77
+  },
+  "road cycling": {
+    "name": "road cycling",
+    "MET": 10,
+    "calories per min": 5.83
+  },
+  "weight lifting": {
+    "name": "weight lifting",
+    "MET": 3.5,
+    "calories per min": 3.95
+  },
+  "yoga": {
+    "name": "yoga",
+    "MET": 3.3,
+    "calories per min": 3.73
+  },
+  "pilates": {
+    "name": "pilates",
+    "MET": 3,
+    "calories per min": 3.39
+  },
+  "high intensity interval training": {
+    "name": "high intensity interval training",
+    "MET": 8,
+    "calories per min": 8.75
+  },
+  "crossfit": {
+    "name": "crossfit",
+    "MET": 7.3,
+    "calories per min": 8.38
+  },
+  "boxing": {
+    "name": "boxing",
+    "MET": 7.8,
+    "calories per min": 8.53
+  },
+  "kickboxing": {
+    "name": "kickboxing",
+    "MET": 5.3,
+    "calories per min": 5.8
+  },
+  "martial arts": {
+    "name": "martial arts",
+    "MET": 5.3,
+    "calories per min": 5.98
+  },
+  "dancing": {
+    "name": "dancing",
+    "MET": 7.8,
+    "calories per min": 8.53
+  },
+  "zumba class": {
+    "name": "zumba class",
+    "MET": 5,
+    "calories per min": 5.71
+  },
+  "aerobics": {
+    "name": "aerobics",
+    "MET": 7.3,
+    "calories per min": 8.24
+  },
+  "walking": {
+    "name": "walking",
+    "MET": 3.5,
+    "calories per min": 3.95
+  },
+  "jogging": {
+    "name": "jogging",
+    "MET": 9,
+    "calories per min": 10.16
+  },
+  "hiking": {
+    "name": "hiking",
+    "MET": 7.8,
+    "calories per min": 8.81
+  },
+  "rock climbing": {
+    "name": "rock climbing",
+    "MET": 7.5,
+    "calories per min": 8.47
+  },
+  "kayaking": {
+    "name": "kayaking",
+    "MET": 5,
+    "calories per min": 5.65
+  },
+  "canoeing": {
+    "name": "canoeing",
+    "MET": 3.5,
+    "calories per min": 4.02
+  },
+  "rowing": {
+    "name": "rowing",
+    "MET": 4.8,
+    "calories per min": 5.42
+  },
+  "sailing": {
+    "name": "sailing",
+    "MET": 3.3,
+    "calories per min": 3.79
+  },
+  "surfing": {
+    "name": "surfing",
+    "MET": 3,
+    "calories per min": 3.44
+  },
+  "skiing": {
+    "name": "skiing",
+    "MET": 7,
+    "calories per min": 7.9
+  },
+  "snowboarding": {
+    "name": "snowboarding",
+    "MET": 4.3,
+    "calories per min": 4.93
+  },
+  "ice skating": {
+    "name": "ice skating",
+    "MET": 5.5,
+    "calories per min": 6.21
+  },
+  "rollerblading": {
+    "name": "rollerblading",
+    "MET": 7.5,
+    "calories per min": 8.47
+  },
+  "skateboarding": {
+    "name": "skateboarding",
+    "MET": 5,
+    "calories per min": 5.47
+  },
+  "parkour": {
+    "name": "parkour",
+    "MET": 8.3,
+    "calories per min": 9.37
+  },
+  "calisthenics": {
+    "name": "calisthenics",
+    "MET": 3.8,
+    "calories per min": 4.03
+  },
+  "gymnastics": {
+    "name": "gymnastics",
+    "MET": 3.8,
+    "calories per min": 4.29
+  },
+  "tennis": {
+    "name": "tennis",
+    "MET": 7.3,
+    "calories per min": 8.24
+  },
+  "badminton": {
+    "name": "badminton",
+    "MET": 5.5,
+    "calories per min": 6.02
+  },
+  "ping pong": {
+    "name": "ping pong",
+    "MET": 4,
+    "calories per min": 4.38
+  },
+  "basketball": {
+    "name": "basketball",
+    "MET": 6.5,
+    "calories per min": 7.34
+  },
+  "volleyball": {
+    "name": "volleyball",
+    "MET": 4,
+    "calories per min": 4.52
+  },
+  "soccer": {
+    "name": "soccer",
+    "MET": 10,
+    "calories per min": 11.29
+  },
+  "american football": {
+    "name": "american football",
+    "MET": 8,
+    "calories per min": 9.03
+  },
+  "baseball": {
+    "name": "baseball",
+    "MET": 5,
+    "calories per min": 5.65
+  },
+  "softball": {
+    "name": "softball",
+    "MET": 4,
+    "calories per min": 4.52
+  },
+  "golf": {
+    "name": "golf",
+    "MET": 3.5,
+    "calories per min": 3.95
+  },
+  "archery": {
+    "name": "archery",
+    "MET": 4.3,
+    "calories per min": 4.85
+  },
+  "fencing": {
+    "name": "fencing",
+    "MET": 6,
+    "calories per min": 6.77
+  },
+  "skeet shooting": {
+    "name": "skeet shooting",
+    "MET": 2.5,
+    "calories per min": 2.82
+  },
+  "horseback riding": {
+    "name": "horseback riding",
+    "MET": 5.5,
+    "calories per min": 6.21
+  },
+  "fishing": {
+    "name": "fishing",
+    "MET": 3.5,
+    "calories per min": 3.95
+  },
+  "hunting": {
+    "name": "hunting",
+    "MET": 5,
+    "calories per min": 5.65
+  },
+  "trampoline": {
+    "name": "trampoline",
+    "MET": 3.5,
+    "calories per min": 3.83
+  },
+  "skydiving": {
+    "name": "skydiving",
+    "MET": 3.5,
+    "calories per min": 3.89
+  },
+  "paragliding": {
+    "name": "paragliding",
+    "MET": 3.5,
+    "calories per min": 3.95
+  },
+  "hang gliding": {
+    "name": "hang gliding",
+    "MET": 3.5,
+    "calories per min": 3.95
+  },
+  "scuba diving": {
+    "name": "scuba diving",
+    "MET": 7,
+    "calories per min": 8.03
+  },
+  "snorkeling": {
+    "name": "snorkeling",
+    "MET": 5,
+    "calories per min": 5.74
+  },
+  "diving": {
+    "name": "diving",
+    "MET": 3,
+    "calories per min": 3.39
+  },
+  "pectoral fly": {
+    "name": "pectoral fly",
+    "MET": 3.5,
+    "calories per min": 3.4
+  },
+  "body building": {
+    "name": "body building",
+    "MET": 6,
+    "calories per min": 6.77
+  },
+  "General Workout": {
+    "name": "General Workout",
+    "MET": 4,
+    "calories per min": 4.52
+  },
+  "TRX": {
+    "name": "TRX",
+    "MET": 5,
+    "calories per min": 5.65
+  },
+  "kettlebells": {
+    "name": "kettlebells",
+    "MET": 3.5,
+    "calories per min": 3.95
+  },
+  "battle ropes": {
+    "name": "battle ropes",
+    "MET": 6,
+    "calories per min": 6.77
+  },
+  "playing catch": {
+    "name": "playing catch",
+    "MET": 2.5,
+    "calories per min": 2.82
+  },
+  "resistance bands": {
+    "name": "resistance bands",
+    "MET": 4,
+    "calories per min": 4.38
+  },
+  "sled training": {
+    "name": "sled training",
+    "MET": 7.5,
+    "calories per min": 8.47
+  },
+  "squats": {
+    "name": "squats",
+    "MET": 5,
+    "calories per min": 5.3
+  },
+  "overhead press": {
+    "name": "overhead press",
+    "MET": 3.5,
+    "calories per min": 3.83
+  },
+  "pull-up": {
+    "name": "pull-up",
+    "MET": 3.8,
+    "calories per min": 4.29
+  },
+  "dips": {
+    "name": "dips",
+    "MET": 3.8,
+    "calories per min": 3.7
+  },
+  "leg workout": {
+    "name": "leg workout",
+    "MET": 3.5,
+    "calories per min": 3.95
+  },
+  "calf raises": {
+    "name": "calf raises",
+    "MET": 3.5,
+    "calories per min": 3.95
+  },
+  "sit-ups": {
+    "name": "sit-ups",
+    "MET": 2.8,
+    "calories per min": 2.97
+  },
+  "core exercise": {
+    "name": "core exercise",
+    "MET": 2.8,
+    "calories per min": 2.97
+  },
+  "glute exercise": {
+    "name": "glute exercise",
+    "MET": 3.5,
+    "calories per min": 3.95
+  },
+  "burpee": {
+    "name": "burpee",
+    "MET": 3.8,
+    "calories per min": 3.7
+  },
+  "jumping jacks": {
+    "name": "jumping jacks",
+    "MET": 8,
+    "calories per min": 8.75
+  },
+  "bear crawls": {
+    "name": "bear crawls",
+    "MET": 3.8,
+    "calories per min": 4.03
+  },
+  "jumping rope": {
+    "name": "jumping rope",
+    "MET": 8.8,
+    "calories per min": 9.62
+  },
+  "stair climbing": {
+    "name": "stair climbing",
+    "MET": 8,
+    "calories per min": 7.78
+  },
+  "elliptical machine": {
+    "name": "elliptical machine",
+    "MET": 5,
+    "calories per min": 5.65
+  },
+  "general gym": {
+    "name": "general gym",
+    "MET": 5,
+    "calories per min": 5.65
+  },
+  "stationary biking": {
+    "name": "stationary biking",
+    "MET": 7,
+    "calories per min": 8.03
+  },
+  "walking on treadmill": {
+    "name": "walking on treadmill",
+    "MET": 3.5,
+    "calories per min": 3.95
+  },
+  "sprinting": {
+    "name": "sprinting",
+    "MET": 11.8,
+    "calories per min": 11.47
+  },
+  "circuit training": {
+    "name": "circuit training",
+    "MET": 8,
+    "calories per min": 8.75
+  },
+  "tabata workout": {
+    "name": "tabata workout",
+    "MET": 8,
+    "calories per min": 9.03
+  },
+  "Pylometrics": {
+    "name": "Pylometrics",
+    "MET": 8,
+    "calories per min": 9.03
+  },
+  "hillside walking": {
+    "name": "hillside walking",
+    "MET": 5.3,
+    "calories per min": 5.98
+  }
+}
